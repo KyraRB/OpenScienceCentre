@@ -5,6 +5,6 @@ Our main goal is facilitate the development of OpenScienceCentres in all the com
 
 Our second purpose is do it with the help of everyone, and for everyone. That's why, we trust in github and creative commons license to share our project and make it open. Thank's to this platform people can download the content and interact between themselves. At the end partners and users benefit from the exchange and improve the project.
 
-You can know more about the project by our website:
+You can know more about the project in our website:
 
 www.opensciencecentre.org
