@@ -1,9 +1,16 @@
 # OpenScienceCentre
-A project to inspire, empower &amp; engage citizens with Science &amp; Technology.
+Inspire, empower &amp; engage communities with Science &amp; Technology.
 
-Our main goal is facilitate the development of OpenScienceCentres in all the communities, as a place to connect with Science & Technology and contribute to their sustainable development. To make this goal true, we have three levels of resources. We have started with a digital content, where you will find everything that you can need for build your own OSC. For those who doesn't have the time or tools for the DIY step, but have already an empty space in their communities, we will provide the science kits and furniture needed to assemble your OSC. Finally, we have designed a full fledge OpenScienceCentre, that enable the further communities to own it in an easy and quickly way.
+Open Science Centre (OSC) fosters the sustainable development of local communities through science and technology.
+Open Science Centre is an engaging learning space based on open standards: open architecture, open education, open technology & open science
 
-Our second purpose is do it with the help of everyone, and for everyone. That's why, we trust in github and creative commons license to share our project and make it open. Thank's to this platform people can download the content and interact between themselves. At the end partners and users benefit from the exchange and improve the project.
+Science and technology are engines for a global sustainable development. However, science and technology remain inaccessible for most citizens because currently there is no way for them to discover this knowledge. The vision of OSC is bring science and technology to all the communities, as the best tool for their sustainable development. That's why Open Science Centre is low-cost, flexible, participatory, and based in open standards. OSC will follow an integrated approach to Science and Technology education.
+
+OSC development is focused on 5 main areas: Architecture; Construction; Educational Content; Networks and Community Development and Evaluation. OSC will engage everyone with current and cutting edge knowledge through the following themes: Our Wonderful Universe, Our Fragile Earth, Energy, Life, Humans.
+
+The Open Science Centre will be available in the following modes:
+
+Do-it-Yourself OSC, Out-of-Box OSC, Full-Fledged OSC.
 
 You can know more about the project in our website:
 
